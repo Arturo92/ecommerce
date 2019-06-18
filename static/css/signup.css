@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+ 
+ html, body {
+	background-color:white;
+}
+ .signupform {
+	margin-top:10%;
+}
+
+.signupform-holder {
+	text-align:center;
+	padding:80px;
+}
+
+#logo {
+   margin-top: 16px;
+   text-align:center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#fnameid {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+#lnameid {
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 8px;
+	text-align: center;
+}
+
+#emailid {
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 8px;
+	text-align: center;
+}
+
+#usernameid {
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 8px;
+	text-align: center;
+}
+
+#pwordid {
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 8px;
+	text-align: center;
+}
+
+#registerid {
+	background-color: black;
+	border: black solid 0;
+	padding:12px;
+	width:200px;
+	color:white;
+	margin-top: 8px;
+	font-family: 'Open Sans', sans-serif;
+}

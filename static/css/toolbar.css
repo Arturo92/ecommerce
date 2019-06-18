@@ -1,0 +1,58 @@
+.toolbar {
+    width:100%;
+    height:120px;
+    background-color: white;
+}
+
+.toolbar-holder {
+	
+}
+
+.m {
+	text-align:center;
+}
+.menuspan {
+	text-align:center;
+}
+#homeicon {
+	float:left;
+	display:none;
+}
+
+#searchbar-holder {
+
+}
+
+#searchbar {
+    padding:7px;
+    font-size:14px;
+    width:100%;
+}
+
+#login-holder {
+    background-color:#080808;
+    border:black solid 0;
+}
+
+#login {
+	color:white;
+	text-decoration:none;
+}
+
+.dropmenu {
+  display:none;
+  text-align: center;
+	width:100%;
+}
+
+
+.links {
+    text-decoration:none;
+    color:black;
+    display:block;
+}
+
+#exit {
+	float:left;
+	display:none;
+}

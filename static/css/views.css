@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+
+#view-holder {
+	}
+
+#view-switcher {
+	text-align:center;
+	width:100%;
+	background-color:black;
+	color:white;
+	}
+	
+.views-switcher {
+	text-decoration:none;
+	color:white;
+	font-family:'Comfortaa' , cursive;
+	text-align:center;
+	}
+	
+#filter-id {
+	font-family:'Comfortaa', curisve;
+	font-size:12px;
+	font-weight:200;
+	}
+	
+#filter {
+	display:none;
+	}
+	
+.filter-color , .filter-size {
+	font-family:'Comfortaa', cursive;
+	font-size:12px;
+	display:inline;
+	}
+	
+#color-id, #size-id {
+	font-family:'Comfortaa', cursive;
+	}
+	
+#color-filter-holder {
+	float:left;
+	}
+	
+#filter-back {
+	font-family:'Comfortaa', cursive;
+	font-size:12px;
+}
+
+.filter-cbs {
+	border:0 black solid;
+	}
+	
+#filter-apply {
+	font-family:'Comfortaa' , cursive;
+	background-color:black;
+	color:white;
+	border: #383838 solid 1px;
+	}

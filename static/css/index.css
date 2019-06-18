@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+#logo {
+	text-align:center;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+
+#logo-text {
+	font-weight:100;
+	font-family: 'Comfortaa', cursive;
+}
+
+#brand-logo {
+	font-family: "Times New Roman", Times, serif;
+	}
+
+#statement {
+	font-family: 'Comfortaa', cursive;
+	}
+
+#create-account-container {
+	text-align:center;
+}
+
+#video-id {
+	width:100%;
+	}
